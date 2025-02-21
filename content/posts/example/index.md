@@ -6,7 +6,7 @@ pinned = false
 tags = ["Diving", "Wassersportart"]
 image = "oip.jpg"
 description = "Wasserspringen"
-footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
+footnotes = "Naja danke Wikipedia für die Texte"
 +++
 
 
