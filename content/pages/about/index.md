@@ -8,7 +8,8 @@ description = ""
 
 ## Jonas Lehmann
 
-icke.einszwei@deepple.dm
+icke.einszwei@depple.com
+
 
 Ich bin Jonas Lehmann, ein kreativer Kopf mit einer Leidenschaft für Design, Fotografie und spannende Geschichten. Mit einem Auge fürs Detail und einem Hang zur Ästhetik bringe ich Ideen zum Leben – sei es durch visuelle Kunst, Texte oder digitale Erlebnisse.
 
