@@ -8,15 +8,18 @@ image = "https://th.bing.com/th/id/OIP.OUWozWwNRfSKuEFjjZUb9wHaEW?rs=1&pid=ImgDe
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
+
 {{<lead>}}
-In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
+Sportart Wasserspringen
 {{</lead>}}
 
 Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
 
-# Turmspringen
+# Wasserspringen
 
 Das Wasserspringen ist eine Wassersportart, bei der es darum geht, aus unterschiedlichen Höhen und mit verschiedenen Techniken möglichst elegant ins Wasser zu springen. Dieser Wettkampfsport ist mit mehreren Disziplinen seit 1904 Bestandteil der Olympischen Spiele. Unterschieden werden die Disziplinen Kunstspringen (1-m- und 3-m-Brett), Turmspringen (5-m-, 7,5-m- und 10-m-Turm) und Synchronspringen (3-m-Brett und 10-m-Turm). Wasserspringen ist auch ein beliebter Freizeitsport, der in manchen Schwimm- und Freizeitbädern ausgeübt werden kann. Als wichtiger Bestandteil der meisten Schwimmabzeichen und des Rettungsschwimmens hat Wasserspringen auch eine sicherheitsrelevante Bedeutung.
+
+![](the_tomb_of_the_diver_-_paestum_-_italy.jpg)
 
 Eine Extremsportvariante des Wasserspringens ist das Klippenspringen. Dabei springen die Sportler von Felsklippen aus über zehn Metern Höhe in offene Gewässer. Sie verbindet Techniken des Turmspringens mit den Anforderungen, die die freie Natur an die Sportler stellt.
 
@@ -36,10 +39,7 @@ In Deutschland gehört Wasserspringen zum Bestandteil vieler Schwimmabzeichen. B
 
 Ähnlich ist die Situation in Österreich. Für die Schwimmabzeichen der Arbeitsgemeinschaft Österreichisches Wasserrettungswesen (ARGE ÖWRW) müssen bestimmte Anforderungen im Wasserspringen erfüllt werden. Zum Beispiel ist für den Frühschwimmer ein Sprung vom Beckenrand, für den Freischwimmer ein 1-m-Kopfsprung bzw. 3-m-Fußsprung und sind für den Fahrten- und Allroundschwimmer Kopfstartsprünge vorgeschrieben.In der Schweiz ist Wasserspringen Bestandteil im Schwimmunterricht an Schulen. Die Kinder und Jugendlichen können im Rahmen der Schwimmtests spezielle Tests für Wasserspringen machen und über acht Stufen entsprechende Stoffabzeichen erwerben. Über die staatliche Organisation Jugend und Sport wird Wasserspringen im Breitensport gefördert. Ab der fünften Stufe benötigt man bei einem Wettkampf eine bestimmte Punktzahl, um das Abzeichen zu erwerben.
 
-Zu den Gefahren des Wasserspringens zählen Kopfsprünge in unbekannte Gewässer. Durch falsch eingeschätzte Wassertiefe oder unter der Wasseroberfläche liegende Teile kommt es immer wieder zu schweren Verletzungen, insbesondere Querschnittlähmungen, und zu Todesfällen.[3]
-
-
-
+Zu den Gefahren des Wasserspringens zählen Kopfsprünge in unbekannte Gewässer. Durch falsch eingeschätzte Wassertiefe oder unter der Wasseroberfläche liegende Teile kommt es immer wieder zu schweren Verletzungen, insbesondere Querschnittlähmungen, und zu Todesfällen.\[3]
 
 #### Überschrift 4
 
