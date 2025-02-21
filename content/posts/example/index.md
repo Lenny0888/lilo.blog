@@ -20,9 +20,13 @@ Das Wasserspringen ist eine Wassersportart, bei der es darum geht, aus unterschi
 
 Eine Extremsportvariante des Wasserspringens ist das Klippenspringen. Dabei springen die Sportler von Felsklippen aus über zehn Metern Höhe in offene Gewässer. Sie verbindet Techniken des Turmspringens mit den Anforderungen, die die freie Natur an die Sportler stellt.
 
-## Überschrift 2
+## Geschichte
 
-Dies ist die Überschrift 2 (H2).
+Im 8. Jahrhundert vor Christus wird das Wasserspringen im antiken Griechenland in Homers Odyssee erstmals erwähnt. Allerdings zählte es eher zur militärischen Ausbildung denn als sportlicher Wettkampf. Auch bei Römern und Germanen zählte das Springen mit anschließendem Tauchen als militärisches Mittel. Ein erstes Bild eines Wasserspringers fand man in Paestum, ungefähr aus dem Jahr 475 vor Christus. Das Tomba del Tuffatore (Grab des Tauchers) zeigt einen Mann, der anmutig von einer Plattform springt. Das Bild soll bildhaft den Verlauf des Lebens, von der Geburt bis zum Tod, symbolisieren.
+
+Wasserspringen als moderner Wettkampfsport entwickelte sich ab dem 18. Jahrhundert in Deutschland und Schweden. In Deutschland ist die Entwicklung mit der Turnbewegung von Turnvater Jahn und GutsMuths verknüpft. Die Halloren, bei denen das Springen sportlicher Brauch wurde, zählten zu den ersten, die in Wettkämpfen vor Zuschauern ihre Sprünge zeigten. Gesprungen wurde zumeist von Brücken in die Saale. Der weltweit erste Verein für Wasserspringen wurde 1840 vom Halloren Tichy gegründet und hieß Tichy’sche Frösche. Da in dieser Zeit mehrere Schwimmbäder entstanden und das Springen dort ungefährlicher war als in offenen Gewässern, verbreitete sich das Wasserspringen. In Schweden wurden zu dieser Zeit Holzgerüste an Seen und Küsten erbaut, von denen Sportler ihre Sprünge zeigten. 1899 fand in Schweden die erste, allerdings inoffizielle, Weltmeisterschaft statt. Mit der Aufnahme von Wasserspringen in das Programm der Olympischen Spiele 1904 verbreitete sich die Sportart auch in anderen Ländern.
+
+Seit der Gründung des Deutschen Schwimm-Verbands im Jahr 1886 finden deutsche Meisterschaften statt; seit 1921 (nur Kunstspringen) bzw. 1933 (auch Turmspringen) nehmen an diesen auch Frauen teil. Der internationale Dachverband, die FINA, wurde 1908 gegründet.
 
 ### Überschrift 3
 
