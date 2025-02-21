@@ -16,7 +16,9 @@ Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **En
 
 # Turmspringen
 
-So sieht die grösste Überschrift aus (H1).
+Das Wasserspringen ist eine Wassersportart, bei der es darum geht, aus unterschiedlichen Höhen und mit verschiedenen Techniken möglichst elegant ins Wasser zu springen. Dieser Wettkampfsport ist mit mehreren Disziplinen seit 1904 Bestandteil der Olympischen Spiele. Unterschieden werden die Disziplinen Kunstspringen (1-m- und 3-m-Brett), Turmspringen (5-m-, 7,5-m- und 10-m-Turm) und Synchronspringen (3-m-Brett und 10-m-Turm). Wasserspringen ist auch ein beliebter Freizeitsport, der in manchen Schwimm- und Freizeitbädern ausgeübt werden kann. Als wichtiger Bestandteil der meisten Schwimmabzeichen und des Rettungsschwimmens hat Wasserspringen auch eine sicherheitsrelevante Bedeutung.
+
+Eine Extremsportvariante des Wasserspringens ist das Klippenspringen. Dabei springen die Sportler von Felsklippen aus über zehn Metern Höhe in offene Gewässer. Sie verbindet Techniken des Turmspringens mit den Anforderungen, die die freie Natur an die Sportler stellt.
 
 ## Überschrift 2
 
