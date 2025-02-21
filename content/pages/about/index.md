@@ -4,7 +4,7 @@ draft = false
 image = "/img/default-author.jpg"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](herunterladen.jpg)
 
 ## Jonas Lehmann
 
