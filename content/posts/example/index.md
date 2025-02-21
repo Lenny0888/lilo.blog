@@ -19,6 +19,7 @@ Das **Wasserspringen** ist eine Wassersportart, bei der es darum geht, aus unter
 
 
 Eine Extremsportvariante des Wasserspringens ist das **Klippenspringen**. Dabei springen die Sportler von Felsklippen aus über zehn Metern Höhe in offene Gewässer. Sie verbindet Techniken des Turmspringens mit den Anforderungen, die die freie Natur an die Sportler stellt.
+
 ![](the_tomb_of_the_diver_-_paestum_-_italy.jpg)
 
 ## Geschichte
