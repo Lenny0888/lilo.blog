@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "My Name"
-description = "A Lifelong Journey"
-footerLeft = "Powered by 💜 [Lilo.page](https://www.lilo.page)"
-footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"	
+title = "Sportarten"
+description = "Alle Sportarten hier erklärt"
+footerLeft = "Powered by 💜 [Wikipedia](https://de.wikipedia.org/wiki/Wikipedia:Hauptseite)"
+footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"
 +++
