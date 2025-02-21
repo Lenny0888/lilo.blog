@@ -1,5 +1,5 @@
 +++
-title = "The best website of the world"
+title = "Wasserspringen und Turmspringen"
 date = "2025-02-21"
 draft = false
 pinned = false
