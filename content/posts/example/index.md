@@ -4,7 +4,7 @@ date = "2025-02-21"
 draft = false
 pinned = false
 tags = ["Lilo", "Example"]
-image = ""
+image = "oip.jpg"
 description = "Wasserspringen"
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
