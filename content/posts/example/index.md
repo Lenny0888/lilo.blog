@@ -1,10 +1,10 @@
 +++
 title = "The best website of the world"
-date = "2023-01-01"
+date = "2025-02-21"
 draft = false
 pinned = false
 tags = ["Lilo", "Example"]
-image = "/img/default-image.jpg"
+image = "https://th.bing.com/th/id/OIP.OUWozWwNRfSKuEFjjZUb9wHaEW?rs=1&pid=ImgDetMainhttps://th.bing.com/th/id/OIP.OUWozWwNRfSKuEFjjZUb9wHaEW?rs=1&pid=ImgDetMain"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
