@@ -28,9 +28,18 @@ Wasserspringen als moderner Wettkampfsport entwickelte sich ab dem 18. Jahrhunde
 
 Seit der Gründung des Deutschen Schwimm-Verbands im Jahr 1886 finden deutsche Meisterschaften statt; seit 1921 (nur Kunstspringen) bzw. 1933 (auch Turmspringen) nehmen an diesen auch Frauen teil. Der internationale Dachverband, die FINA, wurde 1908 gegründet.
 
-### Überschrift 3
+### Wasserspringen als Freizeitsport
 
-Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
+In den meisten öffentlichen Schwimm- und Freizeitbädern steht den Besuchern ein Sprungbrett, manchmal auch ein Sprungturm und ein spezielles Sprungbecken, zur Verfügung. Im Gegensatz zum Wettkampfspringen, bei dem Eleganz und sauberes Eintauchen im Vordergrund stehen, zählt für mehrere Freizeitspringer vor allem der Mut zum Absprung, aus größeren Höhen auch das Gefühl des freien Falls. Ein beliebter Sprung ist die sogenannte Arschbombe, bei der man mit großer Oberfläche auf das Wasser trifft, sodass eine hohe Fontäne entsteht.
+
+In Deutschland gehört Wasserspringen zum Bestandteil vieler Schwimmabzeichen. Beim Seepferdchen ist ein Sprung vom Beckenrand vorgeschrieben, für den Deutschen Schwimmpass Sprünge aus bis zu 3 Metern Höhe. Auch für das Erlangen des Rettungsschwimmabzeichens müssen Kopf- und Startsprünge gezeigt werden.
+
+Ähnlich ist die Situation in Österreich. Für die Schwimmabzeichen der Arbeitsgemeinschaft Österreichisches Wasserrettungswesen (ARGE ÖWRW) müssen bestimmte Anforderungen im Wasserspringen erfüllt werden. Zum Beispiel ist für den Frühschwimmer ein Sprung vom Beckenrand, für den Freischwimmer ein 1-m-Kopfsprung bzw. 3-m-Fußsprung und sind für den Fahrten- und Allroundschwimmer Kopfstartsprünge vorgeschrieben.In der Schweiz ist Wasserspringen Bestandteil im Schwimmunterricht an Schulen. Die Kinder und Jugendlichen können im Rahmen der Schwimmtests spezielle Tests für Wasserspringen machen und über acht Stufen entsprechende Stoffabzeichen erwerben. Über die staatliche Organisation Jugend und Sport wird Wasserspringen im Breitensport gefördert. Ab der fünften Stufe benötigt man bei einem Wettkampf eine bestimmte Punktzahl, um das Abzeichen zu erwerben.
+
+Zu den Gefahren des Wasserspringens zählen Kopfsprünge in unbekannte Gewässer. Durch falsch eingeschätzte Wassertiefe oder unter der Wasseroberfläche liegende Teile kommt es immer wieder zu schweren Verletzungen, insbesondere Querschnittlähmungen, und zu Todesfällen.[3]
+
+
+
 
 #### Überschrift 4
 
