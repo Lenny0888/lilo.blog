@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Lilo", "Example"]
 image = ""
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
+description = "Wasserspringen"
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
 
