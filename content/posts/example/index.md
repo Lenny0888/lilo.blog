@@ -115,7 +115,7 @@ Wird ein Titel angegeben, so kann die Box ausgeklappt werden.
 
 Dies eignet sich auch für längere Inhalte.
 
-![](/img/default-image.jpg)
+![](https://th.bing.com/th/id/OIP.OUWozWwNRfSKuEFjjZUb9wHaEW?rs=1&pid=ImgDetMain)
 
 Auch Bilder können in eine Box gepackt werden.
 {{</box>}}
